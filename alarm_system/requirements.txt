@@ -1,0 +1,6 @@
+flask
+mtcnn
+pillow
+numpy
+tensorflow
+torch
